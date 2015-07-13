@@ -1,4 +1,4 @@
-HEIGHT_OFFSET = 80 # Account for message input
+HEIGHT_OFFSET = 75 # Account for message input
 
 MessageList = React.createClass
   getInitialState: ->
